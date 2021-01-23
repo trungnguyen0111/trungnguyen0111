@@ -43,5 +43,3 @@ const data = {
 
 ```
 <!--END_SECTION:waka-->
-
-
