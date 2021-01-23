@@ -1,26 +1,17 @@
-<div style="text-align:center">
-  <h2>
-    Xin chào (Hi)🙏🏻, I'm Trung! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  </h2>
-</div>
-
-
+<h2>Xin chào (Hi)🙏🏻, I'm Nguyen Van Trung! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!-- <p>
-  <em>
-    Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </em>
- </p>
+<!-- <p><em>Freelancer Software Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 
 ```javascript
 const data = {
     code: ["Javascript"],
-    askMeAbout: ["web dev"],
+    askMeAbout: ["web dev",
     technologies: {
+        mobileApp: ["React Native"],
         frontEnd: {
             js: ["Reactjs"],
             css: ["bootstrap", "SCSS"]
@@ -29,7 +20,7 @@ const data = {
             "node"
         },
         databases: ["MySql", "SQL Server"]
-    }
+    },
     funFact: "As long as your remember me, you are not alone"
 };
 ```
