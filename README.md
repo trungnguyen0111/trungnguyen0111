@@ -10,7 +10,7 @@
 ```javascript
 const data = {
     code: ["Javascript"],
-    askMeAbout: ["web dev",
+    askMeAbout: ["web dev"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
