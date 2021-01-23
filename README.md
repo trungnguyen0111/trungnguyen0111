@@ -22,7 +22,7 @@ const data = {
         },
         databases: ["MySql", "SQL Server"]
     },
-    funFact: "Keep your face facing the sun, and darkness will fall behind you."
+    funFact: "Keep your face facing the sun and darkness will fall behind you.☘"
 };
 ```
 
