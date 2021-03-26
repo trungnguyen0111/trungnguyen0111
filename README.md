@@ -12,7 +12,6 @@ const data = {
     code: ["Javascript"],
     askMeAbout: ["web dev"],
     technologies: {
-        mobileApp: ["React Native"],
         frontEnd: {
             js: ["Reactjs"],
             css: ["bootstrap", "SCSS"]
